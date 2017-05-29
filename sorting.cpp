@@ -1,5 +1,4 @@
-#include <stdio.h>//seetharam 107116040
-
+#include<stdio.h>//karishma seetharaman 107116040 
 void main()
 {
     int i, j, a, n, number[30];
